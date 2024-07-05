@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+}
+p{
+    color: aliceblue;
+    border: 2px solid white;
+}
+li{
+    background-color: rgba(0, 50,200, 0.6);
+}
+.go{
+    color: aliceblue;
+}
+.do{
+    color: #FF3030;
+}
+.one{
+    color: #00FF00;
+}
